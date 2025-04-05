@@ -3,11 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub Repo](https://img.shields.io/badge/Repo-Open%20Source-success)
-![GitHub Stars](https://img.shields.io/github/stars/LFDIAZDEV2209/voice-recorder?style=social)
 
 Aplicación de línea de comandos para grabación de audio profesional con salida en formato WAV. Proyecto desarrollado con Python y librerías de procesamiento de audio de alto rendimiento.
-
-![Demo](https://via.placeholder.com/800x400.png?text=Grabación+en+tiempo+real) <!-- Agregar captura real -->
 
 ## 🌟 Características Principales
 - **Calidad de Estudio**: 44.1 kHz, 16-bit, estéreo
